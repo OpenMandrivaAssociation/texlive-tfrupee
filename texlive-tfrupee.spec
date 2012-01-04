@@ -19,6 +19,8 @@ BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
 Requires(post):	texlive-kpathsea
 
+%define		_unpackaged_subdirs_terminate_build	0
+
 %description
 The package provides LaTeX support for the (Indian) Rupee
 symbol font, created by TechFat. The original font has been
