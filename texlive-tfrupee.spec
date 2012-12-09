@@ -58,3 +58,16 @@ written for its use.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar fonts tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.02-2
++ Revision: 756832
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.02-1
++ Revision: 719724
+- texlive-tfrupee
+- texlive-tfrupee
+- texlive-tfrupee
+
