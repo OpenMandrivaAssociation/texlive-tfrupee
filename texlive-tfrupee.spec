@@ -6,7 +6,7 @@
 # catalog-version 1.02
 Name:		texlive-tfrupee
 Version:	1.02
-Release:	4
+Release:	5
 Summary:	A font offering the new (Indian) Rupee symbol
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/tfrupee
