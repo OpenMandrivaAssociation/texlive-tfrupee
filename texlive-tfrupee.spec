@@ -1,6 +1,6 @@
 Name:		texlive-tfrupee
 Version:	20770
-Release:	1
+Release:	2
 Summary:	A font offering the new (Indian) Rupee symbol
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/tfrupee
