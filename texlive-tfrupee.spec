@@ -3,7 +3,7 @@ Version:	20770
 Release:	2
 Summary:	A font offering the new (Indian) Rupee symbol
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/tfrupee
+URL:		https://www.ctan.org/tex-archive/fonts/tfrupee
 License:	GPL3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tfrupee.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tfrupee.doc.r%{version}.tar.xz
